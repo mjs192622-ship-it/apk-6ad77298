@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "970095566417",
+        "project_id": "kolkash",
+        "storage_bucket": "kolkash.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:970095566417:android:81a27c1442d6619677e270",
+                "android_client_info": {
+                    "package_name": "com.kolkash.apps"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBqrs9WeKEWw2y0F3nHWrqnMDicmwQnt1w"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
